@@ -9,7 +9,7 @@
   border-radius: 50px;
 }
 #form-data {
-  padding-left: 70px;
+  padding-left: 40px;
 }
 #form-data img {
   border-radius: 50%;
@@ -39,3 +39,6 @@ button {
   position: relative;
   left: 100px;
 }
+/* button:hover {
+  background: linear-gradient(to right, rgb(8, 146, 10), rgb(107, 239, 123));
+} */
