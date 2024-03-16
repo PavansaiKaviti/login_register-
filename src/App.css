@@ -1,0 +1,41 @@
+#container {
+  width: 400px;
+  height: 225px;
+  background-color: aliceblue;
+  padding-top: 75px;
+  padding-left: 250px;
+  margin-top: 250px;
+  margin-left: 400px;
+  border-radius: 50px;
+}
+#form-data {
+  padding-left: 70px;
+}
+#form-data img {
+  border-radius: 50%;
+  height: 175px;
+  width: 175px;
+  position: absolute;
+  top: 310px;
+  left: 450px;
+}
+.labelling_gap {
+  margin-bottom: 20px;
+}
+input {
+  width: 200px;
+  height: 25px;
+  margin-left: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+button {
+  height: 35px;
+  width: 140px;
+  border-radius: 10px;
+  border: 0px solid black;
+  color: aliceblue;
+  background: linear-gradient(to right, rgb(4, 128, 185), rgb(65, 185, 233));
+  position: relative;
+  left: 100px;
+}
